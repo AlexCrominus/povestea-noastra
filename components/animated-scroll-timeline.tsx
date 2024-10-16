@@ -438,7 +438,7 @@ export default function ExtendedThreadTimeline() {
           </p>
         </div>
         <h1 className="text-4xl font-bold text-center mb-6 text-teal-800 z-10">
-          Te iubesc, simplu, infinit!
+          Te iubesc. Simplu. Infinit!
         </h1>
         <p className="text-sm font-medium text-center mb-8 text-teal-700 z-10 italic">
           PS: e cam cringe știu, dar și noi suntem cringe!!!
