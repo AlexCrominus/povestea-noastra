@@ -54,7 +54,7 @@ const timelineEvents: TimelineEvent[] = [
   {
     date: "14 Octombrie 2023",
     message:
-      "Ce zi frumoasă a fost asta, iar tu erai îmbrăcata superb! Știu că și ție îți placea pentru că te-am complimentat mult ziua aia.",
+      "Ce zi frumoasă a fost asta, iar tu erai îmbrăcată superb! Știu că și ție îți plăcea pentru că te-am complimentat mult ziua aia.",
     images: [
       "/images/11.JPG",
       "/images/12.JPG",
@@ -66,7 +66,7 @@ const timelineEvents: TimelineEvent[] = [
   {
     date: "21 Octombrie 2023",
     message:
-      "Astea sunt niște poze pe care nu cred că le-ai văzut până acum. Sunt de atunci când voiam să îți fac brățară și ma gândeam la un design. Aăfurisitul ăla de la gravură nu m-a lăsat să o fac așa, dar eu zic că a ieșit destul de bine. Sunt cel mai fericit când te văd că o porți.",
+      "Astea sunt niște poze pe care nu cred că le-ai văzut până acum. Sunt de atunci când voiam să îți fac brățară și mă gândeam la un design. Ăla de la gravură nu m-a lăsat să o fac așa, dar eu zic că a ieșit destul de bine. Sunt cel mai fericit când te văd că o porți.",
     images: [
       "/images/15.JPEG",
       "/images/16.JPEG",
@@ -136,7 +136,7 @@ const timelineEvents: TimelineEvent[] = [
   {
     date: "2 Noiembrie 2023",
     message:
-      "Aria TNB. Eram amândoi frumoși, atunci e posibil chiar eu sa fi fost ala frumos, dar nu cred că le am pe alea cu mine.",
+      "Aria TNB. Eram amândoi frumoși, atunci e posibil chiar eu să fi fost cel frumos, dar nu cred că le am pe alea cu mine.",
     images: [
       "/images/61.JPG",
       "/images/62.JPG",
@@ -178,7 +178,7 @@ const timelineEvents: TimelineEvent[] = [
   {
     date: "21 Decembrie 2023",
     message:
-      "Nu am băut mult, dar eu mă cam ametisem. Ne-am distrat amândoi super mult, si am făcut poza aia super cutsie împreună, dar ție ți s-a părut că erai uratică așa că nu m-ai lăsat să o folosesc ca lock screen :/. După ce am mâncat kürtos colac (pentru că m-a învățat o prostuță  ca asa se zice) am fost la patinoar unde cânta Vunk - PLEACĂ, MÂINE O SĂ-ȚI TREACĂ",
+      "Nu am băut mult, dar eu mă cam ametisem. Ne-am distrat amândoi super mult, și am făcut poza aia super cutsie împreună, dar ție ți s-a părut că erai urâtă așa că nu m-ai lăsat să o folosesc ca lock screen :/. După ce am mâncat kürtos colac (pentru că m-a învățat o prostuță că așa se zice) am fost la patinoar unde cânta Vunk - PLEACĂ, MÂINE O SĂ-ȚI TREACĂ",
     images: [
       "/images/75.JPG",
       "/images/76.JPG",
@@ -202,7 +202,7 @@ const timelineEvents: TimelineEvent[] = [
   {
     date: "1 Ianuarie 2024",
     message:
-      "HAPPY NEW YEARS!!!!! Ce beat eram când te-am pus să faci poza aia pentru părinți. Noaptea asta a însmenat foarte mult pentru amândoi. Am făcut ceva ce nu am crezut niciodată posibil. Totuși am făcut-o, și m-a marcat foarte mult. Am fost foarte dezamăgit de mine și nu îmi pot imagina cum te-ai simți tu. Totuși, am trecut peste și ne-a apropiat. M-a făcut să te prețuiesc mai mult și să te iubesc infinit.",
+      "HAPPY NEW YEARS!!!!! Ce beat eram când te-am pus să faci poza aia pentru părinți. Noaptea asta a însemnat foarte mult pentru amândoi. Am făcut ceva ce nu am crezut niciodată posibil. Totuși am făcut-o, și m-a marcat foarte mult. Am fost foarte dezamăgit de mine și nu îmi pot imagina cum te-ai simțit tu. Totuși, am trecut peste și ne-a apropiat. M-a făcut să te prețuiesc mai mult și să te iubesc infinit.",
     images: ["/images/85.JPG", "/images/86.jpg", "/images/87.jpg"],
     rotation: -2,
   },
@@ -296,6 +296,8 @@ const ImageCarousel = ({
             objectFit="cover"
             priority={currentIndex === 0}
             loading={currentIndex === 0 ? "eager" : "lazy"}
+            placeholder="blur" // Added for image blur-up loading
+            blurDataURL="/images/placeholder.jpg" // Placeholder for faster perceived loading
           />
         </motion.div>
       </AnimatePresence>
@@ -375,7 +377,7 @@ export default function ExtendedThreadTimeline() {
 
       <p className="text-lg text-center mb-8 text-teal-700 z-10 leading-relaxed">
         Am vrut să fac asta pentru că te văd mult prea des cum depui efort să ne
-        amintim de tot drumul. Sper să ți se pară cuteșie ...
+        amintim de tot drumul. Sper să ți se pară cutsie ...
       </p>
 
       <p className="text-xl font-bold text-center mb-8 text-teal-800 z-10">
@@ -422,7 +424,7 @@ export default function ExtendedThreadTimeline() {
             poate par disperat sau penibil, dar nu-mi pasă! Vreau să mai încerc
             încă o dată, o singură dată. Poate nu mă mai iubești, dar
             sentimentele mele au rămas neschimbate, neschimbate de cele de acum
-            un an, sase sau trei luni.
+            un an.
           </p>
           <p className="text-2xl font-bold text-teal-900 mb-4">
             TE IUBESC, MIRUNA!!!
@@ -436,7 +438,7 @@ export default function ExtendedThreadTimeline() {
           </p>
         </div>
         <h1 className="text-4xl font-bold text-center mb-6 text-teal-800 z-10">
-          Te iubesc. Simplu. Infinit!
+          Te iubesc, simplu, infinit!
         </h1>
         <p className="text-sm font-medium text-center mb-8 text-teal-700 z-10 italic">
           PS: e cam cringe știu, dar și noi suntem cringe!!!
