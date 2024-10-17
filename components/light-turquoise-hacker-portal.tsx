@@ -107,7 +107,7 @@ export default function LightTurquoiseHackerPortal() {
 
   return (
     <div
-      className="min-h-screen flex items-center justify-center font-mono px-4"
+      className="min-h-screen flex items-center justify-center font-mono mx-auto p-4 bg-gradient-to-b from-teal-50 to-teal-100 min-h-screen font-serif"
       style={{ backgroundColor: "#EFFDFA" }}
     >
       <div className="w-full max-w-md p-6 sm:p-8 border border-teal-600 rounded-lg bg-teal-50">

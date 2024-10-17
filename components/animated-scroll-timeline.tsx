@@ -26,14 +26,15 @@ const timelineEvents: TimelineEvent[] = [
   },
   {
     date: "30 August 2023",
-    message: "Aici erai în Grecia, iar eu râdeam de portocala mea 🍊",
+    message:
+      "Aici erai în Grecia, iar eu râdeam de tine ca esti portocala mea 🍊",
     images: ["/images/third.JPG"],
     rotation: 2,
   },
   {
     date: "16 Septembrie 2023",
     message:
-      "Aici faceam misto de tine că arăți ca Alvin. Tocmai ți-ai scos măseaua de minte și mie mi se părea că erai așa de drăguță!!!!",
+      "Aici faceam misto de tine că arăți ca Alvin. Tocmai iti scosesesi măseaua de minte și mie mi se părea că erai așa de drăguță!!!!",
     images: [
       "/images/4.JPG",
       "/images/5.JPG",
@@ -47,14 +48,14 @@ const timelineEvents: TimelineEvent[] = [
   {
     date: "25 Septembrie 2023",
     message:
-      "Asta este una dintre pozele mele preferate cu tine. Nu știu ce e cu poza asta, dar este așa frumoasă! Și să știi că încă sunt supărat că nu porți tricoul ăsta cu mine",
+      "Asta este una dintre pozele mele preferate cu tine. Nu știu ce e cu poza asta, dar era așa frumoasă! Și să știi că încă sunt supărat că nu porți tricoul ăsta cu mine",
     images: ["/images/10.JPG"],
     rotation: 3,
   },
   {
     date: "14 Octombrie 2023",
     message:
-      "Ce zi frumoasă a fost asta, iar tu erai îmbrăcată superb! Știu că și ție îți plăcea pentru că te-am complimentat mult ziua aia.",
+      "Ce zi frumoasă a fost asta, iar tu erai îmbrăcata super cutsie! Știu că și ție îți plac pozele astea pentru că te-am complimentat mult ziua aia si te simteai frumoasa (nu pre esti in general).",
     images: [
       "/images/11.JPG",
       "/images/12.JPG",
@@ -66,7 +67,7 @@ const timelineEvents: TimelineEvent[] = [
   {
     date: "21 Octombrie 2023",
     message:
-      "Astea sunt niște poze pe care nu cred că le-ai văzut până acum. Sunt de atunci când voiam să îți fac brățară și mă gândeam la un design. Ăla de la gravură nu m-a lăsat să o fac așa, dar eu zic că a ieșit destul de bine. Sunt cel mai fericit când te văd că o porți.",
+      "Astea sunt niște poze pe care nu cred că le-ai văzut până acum. Sunt de atunci când voiam să îți fac brățară și ma gândeam la un design. Afurisitul ăla de la gravură nu m-a lăsat să o fac așa, dar eu zic că a ieșit destul de bine. Sunt cel mai fericit când te văd că o porți.",
     images: [
       "/images/15.JPEG",
       "/images/16.JPEG",
@@ -79,7 +80,7 @@ const timelineEvents: TimelineEvent[] = [
   {
     date: "26 Octombrie 2023",
     message:
-      "ASTEA SUNT FIX DE ANUL TRECUT!!!!! Sper că anul ăsta să facem poze și mai mișto pentru că astea sunt unele dintre preferatele mele of all time!! Poza aia când te uitai la lună este perfectă. Cea mai frumoasă iubită și cea mai frumoasă noapte!",
+      "ASTEA SUNT FIX DE ANUL TRECUT!!!!! Sper că anul ăsta să facem poze și mai mișto pentru că astea sunt unele dintre preferatele mele!! Poza aia când te uitai la lună a fost prima poza de fundal pe care am avut-o cu tine. Cea mai frumoasă iubită și cea mai frumoasă noapte! (stiu ca e cringe dar TACI)",
     images: [
       "/images/20.JPG",
       "/images/21.JPG",
@@ -95,7 +96,7 @@ const timelineEvents: TimelineEvent[] = [
   {
     date: "31 Octombrie 2023",
     message:
-      "Una dintre zilele mele preferate cu tine, mi-o amintesc și acum foarte bine. A fost pentru prima oară când te-am văzut și am fost înnebunit, de aceea ți-am și făcut tricoul ăla despre ea. Te iubesc, prostuțo, și hei, chiar nu mi s-au părut mici : P",
+      "Una dintre zilele mele preferate cu tine, mi-o amintesc și acum foarte bine. A fost pentru prima oară când te-am văzut și am fost înnebunit. De aia ți-am și făcut tricoul ăla despre ea, pentru ca a insemnat foarte mult pentru mine sa te vad asa. Te iubesc prostuțo, și hei, chiar nu mi s-au părut mici : P",
     images: [
       "/images/28.JPG",
       "/images/29.JPG",
@@ -136,7 +137,7 @@ const timelineEvents: TimelineEvent[] = [
   {
     date: "2 Noiembrie 2023",
     message:
-      "Aria TNB. Eram amândoi frumoși, atunci e posibil chiar eu să fi fost cel frumos, dar nu cred că le am pe alea cu mine.",
+      "Aria TNB. Eram amândoi frumoși. Eu nu le am pe alea cu mine. POATE IMI DAI SI MIE SHARE LA ALBUM CU MI-AI PROMIS",
     images: [
       "/images/61.JPG",
       "/images/62.JPG",
@@ -158,7 +159,7 @@ const timelineEvents: TimelineEvent[] = [
   {
     date: "1 Decembrie 2023",
     message:
-      "ZIUA ROMÂNIEI!! Nu am mai apucat să mergem la fanfară pentru că te-ai supărat cu maica-ta, dar am fost la the Moon și eu mi-am băut cafeluța iar tu ai mâncat Eggs Benedict. Îmi părea așa de rău când te-am văzut toată plânsa.",
+      "ZIUA ROMÂNIEI!! Nu am mai apucat să mergem la fanfară pentru că te-ai supărat cu maica-ta, dar am fost la the Moon și eu mi-am băut cafeluța iar tu ai mâncat Eggs Benedict. Îmi părea așa de rău când te-am văzut toată plânsa, imi venea numai sa te pup.",
     images: ["/images/70.JPG", "/images/71.JPG"],
     rotation: 3,
   },
@@ -178,7 +179,7 @@ const timelineEvents: TimelineEvent[] = [
   {
     date: "21 Decembrie 2023",
     message:
-      "Nu am băut mult, dar eu mă cam ametisem. Ne-am distrat amândoi super mult, și am făcut poza aia super cutsie împreună, dar ție ți s-a părut că erai urâtă așa că nu m-ai lăsat să o folosesc ca lock screen :/. După ce am mâncat kürtos colac (pentru că m-a învățat o prostuță că așa se zice) am fost la patinoar unde cânta Vunk - PLEACĂ, MÂINE O SĂ-ȚI TREACĂ",
+      "Nu am băut mult, dar eu mă cam ametisem. Ne-am distrat amândoi super mult, iar eu am făcut poza aia super cutsie împreună, dar ție ți s-a părut că erai uratică așa că nu m-ai lăsat să o folosesc ca lock screen :/. După ce am mâncat kürtos colac (pentru că m-a învățat o prostuță ca asa se zice) am fost la patinoar unde cânta Vunk - PLEACĂ, MÂINE O SĂ-ȚI TREACĂ",
     images: [
       "/images/75.JPG",
       "/images/76.JPG",
@@ -190,7 +191,7 @@ const timelineEvents: TimelineEvent[] = [
   {
     date: "28 Decembrie 2023",
     message:
-      "Ne-am cam supărat în ziua asta. Îți spusesem că o fost colegă a zis că pot mai mult. Ți-am zis-o de prost, am vrut să te oftic numai. Eu deja știam că îmi găsisem iubirea și sufletul pereche. De la început eram mai prostuț :/",
+      "Ne-am cam supărat în ziua asta. Îți spusesem că o fosta colegă a zis că pot mai mult. Ți-am zis-o de prost, am vrut să te necajesc putin, dar tu te-ai suparat foc. Eu deja știam că îmi găsisem iubirea și sufletul pereche. De la început eram mai prostuț :/",
     images: [
       "/images/80.jpg",
       "/images/81.jpg",
@@ -202,9 +203,21 @@ const timelineEvents: TimelineEvent[] = [
   {
     date: "1 Ianuarie 2024",
     message:
-      "HAPPY NEW YEARS!!!!! Ce beat eram când te-am pus să faci poza aia pentru părinți. Noaptea asta a însemnat foarte mult pentru amândoi. Am făcut ceva ce nu am crezut niciodată posibil. Totuși am făcut-o, și m-a marcat foarte mult. Am fost foarte dezamăgit de mine și nu îmi pot imagina cum te-ai simțit tu. Totuși, am trecut peste și ne-a apropiat. M-a făcut să te prețuiesc mai mult și să te iubesc infinit.",
+      "HAPPY NEW YEARS!!!!! Ce beat eram când te-am pus să faci poza aia pentru părinți. Noaptea asta a însmenat foarte mult pentru amândoi. Am făcut ceva ce nu am crezut niciodată posibil. Totuși am făcut-o, și m-a marcat foarte mult. Am fost foarte dezamăgit de mine și nu îmi pot imagina cum te-ai simți tu. Totuși, am trecut peste și ne-a apropiat, m-a făcut să te prețuiesc mai mult și să te iubesc infinit.",
     images: ["/images/85.JPG", "/images/86.jpg", "/images/87.jpg"],
     rotation: -2,
+  },
+  {
+    date: "3 Ianuarie 2024",
+    message:
+      "Am fost la tine si ti-am facut unghiutele, eu zic ca au iesit mai bine decat cum ti le faci tu, dar whatever!!! Am facut si florile din lego pe care ti le-am luat, iar ce sa vezi, eu m-am descurcat si la asta mai bine ca tine. PS: CAND FACEM LEGO-UL PE CARE MI L-AI LUAT MIE?!?!?",
+    images: [
+      "/images/88.jpeg",
+      "/images/89.JPG",
+      "/images/90.JPG",
+      "/images/91.JPG",
+    ],
+    rotation: 3,
   },
 ];
 
@@ -296,8 +309,6 @@ const ImageCarousel = ({
             objectFit="cover"
             priority={currentIndex === 0}
             loading={currentIndex === 0 ? "eager" : "lazy"}
-            placeholder="blur" // Added for image blur-up loading
-            blurDataURL="/images/placeholder.jpg" // Placeholder for faster perceived loading
           />
         </motion.div>
       </AnimatePresence>
@@ -377,7 +388,7 @@ export default function ExtendedThreadTimeline() {
 
       <p className="text-lg text-center mb-8 text-teal-700 z-10 leading-relaxed">
         Am vrut să fac asta pentru că te văd mult prea des cum depui efort să ne
-        amintim de tot drumul. Sper să ți se pară cutsie ...
+        amintim de tot drumul. Sper să ți se pară cuteșie ...
       </p>
 
       <p className="text-xl font-bold text-center mb-8 text-teal-800 z-10">
@@ -441,7 +452,7 @@ export default function ExtendedThreadTimeline() {
           Te iubesc. Simplu. Infinit!
         </h1>
         <p className="text-sm font-medium text-center mb-8 text-teal-700 z-10 italic">
-          PS: e cam cringe știu, dar și noi suntem cringe!!!
+          PS: stiu ca e cringe rau tot ce zic, dar și noi suntem cringe!!!
         </p>
       </div>
     </div>
