@@ -388,7 +388,7 @@ export default function ExtendedThreadTimeline() {
 
       <p className="text-lg text-center mb-8 text-teal-700 z-10 leading-relaxed">
         Am vrut să fac asta pentru că te văd mult prea des cum depui efort să ne
-        amintim de tot drumul. Sper să ți se pară cuteșie ...
+        amintim de tot drumul. Sper să ți se pară cutsie ...
       </p>
 
       <p className="text-xl font-bold text-center mb-8 text-teal-800 z-10">
